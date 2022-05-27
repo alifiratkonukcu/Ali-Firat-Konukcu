@@ -4,4 +4,3 @@
 asdasdasdasdasd
 asdasdasdsdasdasd
 
-[kaslıcocuk](http://google.com)
